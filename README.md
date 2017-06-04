@@ -8,3 +8,6 @@ UPDATE 2017-04-14 - EFFECTIVE 2017-05-01 PHREESOFT WILL NO LONGER SUPPORT THE PH
 PHREEBOOKS R4.0 IS IN DEVELOPMENT HOSTED HERE AND THE PROJECT LEAD/PRINCIPLE DEVELOPER WILL FALL TO RENE. ALL PHREEBOOKS ACTIVITY HOSTED AT THE PHREESOFT.COM WEBSITE WILL BE DISCONTINUED. STATUS, BUGS AND OTHER PHREEBOOKS QUERIES WILL BE HANDLED IN THIS REPOSITORY.
 
 PhreeBooks accounting was developed as an open source ERP (Enterprise Resource Planning) web-based application written for the small business community. The goal is to provide a multi-language web-based end-to-end enterprise management tool. Written in the widely availalbe PHP scripting language with the robust MYSQL database engine.
+
+
+PhreeBooks release 5 utilizes the Bizuno library (the next evolution of the PhreeBooks accounting application) as the base for the largest upgrade since R3.7. With a new look and feel, PhreeBooks 5 has most of the same functionality as proir versions of PhreeBooks and a lot more. Major architectural changes, different GIU allow for speed improvements, ease of customization, and enhanced security from prior releases.
